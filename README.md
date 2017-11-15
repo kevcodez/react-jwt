@@ -6,6 +6,12 @@ However, the tutorial from auth0 was written in Januar 2016 and quite a few thin
 
 As backend [nodejs-jwt-authentication-sample](https://github.com/auth0-blog/nodejs-jwt-authentication-sample) is used.
 
+## Run Requirements
+
+* NodeJS
+* NPM
+* Yarn
+
 ## Run
 
 Start the [nodejs-jwt-authentication-sample](https://github.com/auth0-blog/nodejs-jwt-authentication-sample)
